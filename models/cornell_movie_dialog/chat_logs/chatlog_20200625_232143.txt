@@ -1,0 +1,30 @@
+You: hi
+ChatBot: hi.
+
+You: how are you today?
+ChatBot: I know. I was thinking.
+
+You: what were you thinking?
+ChatBot: I hadn't changed.
+
+You: that sounds interesting.
+ChatBot: I know.
+
+You: So I bought a car recently. Can you guess the price?
+ChatBot: I know.
+
+You: you know already?how?
+ChatBot: no I don't know.
+
+You: are you trained properly?
+ChatBot: no I don't know.
+
+You: how is the wheather?
+ChatBot: tomorrow. I have no idea. to me. I don't want to put you no. I want to be with you.
+
+You: that is awfully straight forward of you
+ChatBot: what would you want me to do?
+
+You: how about training you properly
+ChatBot: let's try.
+

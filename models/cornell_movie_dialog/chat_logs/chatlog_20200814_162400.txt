@@ -1,0 +1,57 @@
+You: hello
+ChatBot: how are you?
+
+You: 24 m, single?
+ChatBot: that's me.
+
+You: how old are you?
+ChatBot: a good person.
+
+You: tell me a joke
+ChatBot: oh.
+
+You: does black lives matter
+ChatBot: yes.
+
+You: msi ge66 or lenovo 7i
+ChatBot: stop.
+
+You: iPhone or Android
+ChatBot: that's what I mean.
+
+You: tor maere chudi
+ChatBot: that's funny.
+
+You: mara kha
+ChatBot: that's bullshit.
+
+You: i am depressed
+ChatBot: ok.
+
+You: call 999
+ChatBot: ok.
+
+You: whats your name
+ChatBot: perfect.
+
+You: Well Mr Perfect how are you
+ChatBot: yes.
+
+You: 
+ChatBot: I tell you should stop the country.
+
+You: Fuck you
+ChatBot: please hi.
+
+You: Hi
+ChatBot: bye bye.
+
+You: Bye bye
+ChatBot: beer?
+
+You: mara kha 
+ChatBot: oh.
+
+You: kill yourself
+ChatBot: tape.
+

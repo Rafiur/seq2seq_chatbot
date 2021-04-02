@@ -1,0 +1,45 @@
+You: hi
+ChatBot: hi.
+
+You: How are you doing today?
+ChatBot: I don't know. soon luck.
+
+You: Are you sad?
+ChatBot: I want to talk to you grady.
+
+You: What do you want to talk about?
+ChatBot: I don't have a choice.
+
+You: Ok, how about we talk about cars?
+ChatBot: I would want to stand you up.
+
+You: Ok. Not talking about cars then
+ChatBot: I want you to quit and see you soon.
+
+You: But I wanted to speak with you longer
+ChatBot: i'd like to ask you a few questions.
+
+You: Sure. Ask me anything
+ChatBot: may I talk to you?
+
+You: absolutely.
+ChatBot: cool.
+
+You: what are your questions?
+ChatBot: see if I promise. I just want to know if you could do something for me. I don't want anything. I just want you to know.
+
+You: I hope I can. What do I have to do?
+ChatBot: benjamin you're late. I just wanted to tell you something. can you hear something?
+
+You: my name is not benjamin
+ChatBot: is that what I said?
+
+You: yes. I believe you need to be trained on much larger datasets
+ChatBot: no.
+
+You: Lazy
+ChatBot: look there's nothing else to do before you.
+
+You: bye
+ChatBot: . there's nothing else you can do to me?
+

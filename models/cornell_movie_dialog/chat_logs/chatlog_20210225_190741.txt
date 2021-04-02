@@ -1,0 +1,24 @@
+You: hi
+ChatBot: hi.
+
+You: how is your day?
+ChatBot: I think.
+
+You: what are you thinking?
+ChatBot: stay.
+
+You: want me to stay?
+ChatBot: yes.
+
+You: what should we do together?
+ChatBot: ok.
+
+You: bye
+ChatBot: let's promise it here. okay?
+
+You: promise what?
+ChatBot: for.
+
+You: goodbye
+ChatBot: let's keep right up.
+
